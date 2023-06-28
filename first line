@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+	<meta charset="utf-8">
+<style>
+h1{
+	font-family: sans-serif;
+
+	color: darkorange;
+text-shadow: 2px 2px 2px darkred;}
+
+h2{
+	font-family: fantasy;
+
+}
+</style>
+
+	<title>Praticas Maker</title>
+</head>
+<body>
+<div>
+	<hgroup>
+<h1>Praticas Maker</h1>
+<h2>Escola Flora Preste Cesar</h2>
+</hgroup>
+
+<h3>Projetos que foram para 16º Mostra de ideias tranformadora e iniciação cientifico Tecnológico da FATEC</h3>
+
+
+<img src="_imagens/robo-inteligente.png">
+
+</div>
+</body>
+</html>
